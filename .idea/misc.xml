@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="$USER_HOME$/anaconda3/bin/black" />
+    <option name="sdkUUID" value="9b444b19-741e-47a6-b2d2-8b30257c6e1e" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (streamlit)" project-jdk-type="Python SDK" />
+</project>
