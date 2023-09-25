@@ -7,10 +7,10 @@
 - conda install
 ## run streamlit
 -  streamlit run basic_streamlit.py
-## Tools Dashboard
+## tools
 - [Streamlit](https://streamlit.io/)
 - [Kaggle](https://www.kaggle.com/code/sandikoprastyo/data-wrangling-customer-orders-products-sales)
 
-
-
+## result
+- [Dashboard](https://sandikoprastyo-dashboard-with-streamli-latihan-streamlit-lvoigl.streamlit.app/)
 
